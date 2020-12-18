@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "354463578836",
+    "firebase_url": "https://kurkilumwhatsapp.firebaseio.com",
+    "project_id": "kurkilumwhatsapp",
+    "storage_bucket": "kurkilumwhatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354463578836:android:e158a2a7de104955321941",
+        "android_client_info": {
+          "package_name": "com.example.kurikullumwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354463578836-531f4h3dabq44it2sb6gk4duc0t10au1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kurikullumwhatsapp",
+            "certificate_hash": "68171929c6a62e59bc2b2abefd224dd03ae71aa0"
+          }
+        },
+        {
+          "client_id": "354463578836-jvnlgff78bajnvj55h6svi8oqt193mqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV8-dsXi6un4Ikq4Xwb4pqdUrdy2xhWU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354463578836-jvnlgff78bajnvj55h6svi8oqt193mqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
